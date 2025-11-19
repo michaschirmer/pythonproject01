@@ -3,3 +3,6 @@ def mul(a,b):
 
 def min(a,b):
     return a-b
+
+def myprint(s):
+    print (s)
