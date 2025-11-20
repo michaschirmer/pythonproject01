@@ -1,6 +1,7 @@
 from modul_a import plus
 from modul_b import min
-
+def test():
+    pass
 def main():
     print("Hallo, Python-Welt!")
     # hier kommt deine Programm-Logik hin
