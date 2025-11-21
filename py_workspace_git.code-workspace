@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "python-einsteiger",
+			"path": "../projekt02/python-einsteiger"
+		}
+	],
+	"settings": {}
+}
